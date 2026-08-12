@@ -7,3 +7,6 @@
 - **2026-08-08** Finished my contact us page and enquiry page
 - **2026-08-08** Added map on my contact page
 - **2026-08-08** Removed CSS and only used HTML for now 
+-**2026-08-12** Added more images on my service page
+  -**2026-08-12** Fixed my index page
+  - **2026-08-12** Made changes to my enquiry form to be more vertical
